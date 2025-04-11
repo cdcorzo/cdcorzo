@@ -9,7 +9,7 @@ Desarrollador con 3 años de experiencia en entornos frontend y backend. Me espe
 - Herramientas: Git, Docker, Postman, Linux
 
 ### 📚 Actualmente aprendiendo
-React, Express, Spring Boot, PostgreSQL, Docker y mejorando mi inglés.
+Mejorar mi ingles tecnico y Docker
 
 ### 📫 Conecta conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristhian_Corzo-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristhian-corzo-solorzano)
